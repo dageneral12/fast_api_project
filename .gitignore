@@ -1,0 +1,10 @@
+.gitignore
+/venv2/
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+c_extension
+c_extension.c
+c_extension.dSYM/Contents/Info.plist
+c_extension.dSYM/Contents/Resources/DWARF/c_extension
